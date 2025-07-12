@@ -63,7 +63,7 @@ The Multi-OS Activity Tracker is a real-time productivity monitoring tool design
 
 | Layer      | Technology              |
 |------------|--------------------------|
-| Frontend   | HTML, CSS, JavaScript, Bootstrap |
+| Frontend   | HTML, CSS, React.js, Bootstrap |
 | Backend    | Node.js, Express.js      |
 | Database   | MongoDB                  |
 
